@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">IrinNahar_COMP304_001_Midterm</string>
+    <string name="title_activity1">Choose Region to see COVID 19 Case in Ontario</string>
+
+    <string-array name="Toronto">
+        <item>290</item>
+        <item>265</item>
+        <item>290</item>
+        <item>250</item>
+        <item>265</item>
+        <item>270</item>
+        <item>310</item>
+    </string-array>
+    <string-array name="Peel">
+        <item>240</item>
+        <item>225</item>
+        <item>220</item>
+        <item>235</item>
+        <item>225</item>
+        <item>210</item>
+        <item>240</item>
+    </string-array>
+    <string-array name="Ottawa">
+        <item>120</item>
+        <item>145</item>
+        <item>125</item>
+        <item>115</item>
+        <item>255</item>
+        <item>180</item>
+        <item>175</item>
+    </string-array>
+    <string-array name="Waterloo">
+        <item>190</item>
+        <item>185</item>
+        <item>120</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>175</item>
+    </string-array>
+    <string-array name="Hamilton">
+        <item>75</item>
+        <item>80</item>
+        <item>65</item>
+        <item>95</item>
+        <item>65</item>
+        <item>85</item>
+        <item>95</item>
+    </string-array>
+</resources>
